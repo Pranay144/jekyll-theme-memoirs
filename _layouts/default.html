@@ -15,7 +15,13 @@
 <link href="{{ site.baseurl }}/assets/css/theme.css" rel="stylesheet">
 
 <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
-
+<script type="text/javascript">
+  !function(a,b,c,d,e,f,g,h){a.RaygunObject=e,a[e]=a[e]||function(){
+  (a[e].o=a[e].o||[]).push(arguments)},f=b.createElement(c),g=b.getElementsByTagName(c)[0],
+  f.async=1,f.src=d,g.parentNode.insertBefore(f,g),h=a.onerror,a.onerror=function(b,c,d,f,g){
+  h&&h(b,c,d,f,g),g||(g=new Error(b)),a[e].q=a[e].q||[],a[e].q.push({
+  e:g})}}(window,document,"script","//cdn.raygun.io/raygun4js/raygun.min.js","rg4js");
+</script>
 </head>
 
 {% if jekyll.environment == 'production' %}
@@ -138,6 +144,9 @@ ga('send', 'pageview');
 {% if page.layout == 'post' %}
 <script id="dsq-count-scr" src="//{{site.disqus}}.disqus.com/count.js"></script>
 {% endif %}
-
+<script type="text/javascript">
+  rg4js('apiKey', 'B6M6ORzPKQi26rlq6cD0g');
+  rg4js('enableCrashReporting', true);
+</script>
 </body>
 </html>
