@@ -1,6 +1,7 @@
 ---
 label: GoLang
 hide_body: false
+display_field: pranay
 fields:
 - type: text
   name: layout
