@@ -9,7 +9,7 @@ fields:
   name: title
   label: title
 - type: text
-  name: author
+  name: pranay
   label: author
 - type: list
   name: categories
