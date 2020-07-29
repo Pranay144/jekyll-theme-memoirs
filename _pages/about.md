@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Memoirs, a free minimalist Jekyll blogging theme with modern design 
+title: This blog is dedicated to learning golang for beginners and advanced users.
 permalink: /about
 comments: false
-image: assets/images/screenshot.jpg
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcREfNIxAyqSKci7lbYwLiR168UFrw3CoVvZ3g&usqp=CAU
 imageshadow: true
 ---
 

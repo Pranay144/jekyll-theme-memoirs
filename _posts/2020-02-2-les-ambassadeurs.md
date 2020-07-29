@@ -1,12 +1,13 @@
 ---
 layout: post
-title:  "Les Ambassadeurs, the first Restaurant we Visited in Paris"
-author: sal
+title:  "Introduction to Golang"
+author: Pranay
 categories: [ Lifestyle ]
 tags: [ France ]
 image: assets/images/2.jpg
 rating: 4.5
 ---
+
 
 Within the Hôtel de Crillon, which was built in 1758, Les Ambassadeurs operated as a restaurant since the mid-19th century. It reached its peak of fame as a restaurant and nightclub (a café-concert) in the last three decades of the 19th century. 
 
@@ -19,3 +20,5 @@ Following a renovation of the hotel in 1981–85, the restaurant occupied a form
 Les Ambassadeurs had two Michelin stars. In the last decade of its operation, chef was Dominique Bouchet  followed by Jean-François Piège and finally when the hotel closed in 2013 for an extended renovation, Christopher Hache.
 
 In 2017 Hache opened a smaller restaurant, L'Écrin, within the renovated hotel; the former space of Les Ambassadeurs became a bar.
+
+<script src="https://gist.github.com/Pranay144/86f55590ea9c3ad2c5de64090a90b00e.js"></script>
