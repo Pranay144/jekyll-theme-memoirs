@@ -4,7 +4,7 @@ title:  "Introduction to Golang"
 author: Pranay
 categories: [ Lifestyle ]
 tags: [ France ]
-image: assets/images/2.jpg
+image: https://ik.imagekit.io/vddyvmk09l/2_zxiDK8dvE.jpg
 rating: 4.5
 ---
 
