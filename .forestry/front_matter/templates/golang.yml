@@ -19,4 +19,4 @@ fields:
   name: image
   label: image
 pages:
-- _posts/why-golang.html
+- _posts/2020-09-07-why-golang.html
