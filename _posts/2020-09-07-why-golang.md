@@ -1,6 +1,6 @@
 ---
 layout: post
-title: why golang
+title: why golang hello
 author: Pranay
 categories:
 - Lifestyle
